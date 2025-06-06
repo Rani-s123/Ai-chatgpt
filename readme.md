@@ -1,7 +1,3 @@
-Here is the refined and well-formatted version of the README you can use on GitHub:
-
----
-
 # OpenAI Web Application
 
 A simple and user-friendly web application that allows users to interact with OpenAI’s models.
