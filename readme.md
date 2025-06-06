@@ -93,7 +93,3 @@ All contributions are welcome! Feel free to:
 
 Thanks for checking out this demo project.
 Your support is appreciated! ❤️
-
----
-
-Let me know if you'd like a badge section, deployment guide (e.g., Render/Vercel), or Docker support instructions added.
